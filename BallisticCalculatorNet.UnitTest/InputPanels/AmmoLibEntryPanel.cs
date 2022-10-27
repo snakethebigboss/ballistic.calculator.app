@@ -272,3 +272,6 @@ namespace BallisticCalculatorNet.UnitTest.InputPanels
         }
     }
 }
+
+
+// This is just a random comment in here to test the git integration
